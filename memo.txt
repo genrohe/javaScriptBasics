@@ -1,9 +1,13 @@
-VI 
+// ================================================
+
+VI: On Mac OS X (and Linux), vi is symlinked to vim (vi improved)
 
 vim fileName
 vi fileName
 INSERT: i
 SAVE: esc, shift + :, wq, enter  
+
+// ================================================
 
 CLI MAC:
 
@@ -23,6 +27,7 @@ removeFile		rm fileName
 removeDir		rmdir dirName
 openFinder		open .
 
+// ================================================
 
 GITHUB 101:
 
@@ -45,6 +50,8 @@ git diff
 git add .
 git commit -m 'change gitignore'
 git push origin master
+
+// ================================================
 
 
 

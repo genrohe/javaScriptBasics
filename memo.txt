@@ -1,0 +1,51 @@
+VI 
+
+vim fileName
+vi fileName
+INSERT: i
+SAVE: esc, shift + :, wq, enter  
+
+CLI MAC:
+
+goHome			cd ~
+goHome 			cd /Users/Moon 	
+goRoot 			cd /
+listFileFolder 	ls
+listAll			ls -a
+pathWorkingDir	pwd
+enterFolder		cd Documents/
+goBack			cd ..
+displayFile		cat fileName.txt
+makeDir 		mkdir folderName
+makeFile		touch fileName
+getUserName		whoami
+removeFile		rm fileName			
+removeDir		rmdir dirName
+openFinder		open .
+
+
+
+GITHUB 101:
+
+ON GITHUB
+
+1- create a new repository (or fork an other repo)
+	- README.md
+	- .gitignore
+
+ON CLI (Command Line Interface) GIT
+
+git --version
+git branch -v
+git remote -v
+
+git clone https://github.com/genrohe/javaScriptBasics.git
+cd javaScriptBasics/
+git status
+git diff
+git add .
+git commit -m 'change gitignore'
+git push origin master
+
+
+

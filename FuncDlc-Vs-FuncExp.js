@@ -30,3 +30,5 @@ removePrefix('www.google.com');
 
 //.slice(index) --> returns string starting at index 4
 // w(0) w(1) w(2) .(3s)
+
+// comment 1

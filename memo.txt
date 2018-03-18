@@ -24,7 +24,6 @@ removeDir		rmdir dirName
 openFinder		open .
 
 
-
 GITHUB 101:
 
 ON GITHUB
@@ -46,6 +45,8 @@ git diff
 git add .
 git commit -m 'change gitignore'
 git push origin master
+
+
 
 
 
